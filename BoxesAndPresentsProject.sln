@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseFormsApp", "WarehouseFormsApp\WarehouseFormsApp.csproj", "{648CBDF0-48A9-4A47-8EE7-848C0FF2BC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStruct1", "DataStruct1\DataStruct1.csproj", "{65650C6A-0365-49B3-8BBB-ADD8866D1A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648CBDF0-48A9-4A47-8EE7-848C0FF2BC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648CBDF0-48A9-4A47-8EE7-848C0FF2BC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648CBDF0-48A9-4A47-8EE7-848C0FF2BC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648CBDF0-48A9-4A47-8EE7-848C0FF2BC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65650C6A-0365-49B3-8BBB-ADD8866D1A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65650C6A-0365-49B3-8BBB-ADD8866D1A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65650C6A-0365-49B3-8BBB-ADD8866D1A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65650C6A-0365-49B3-8BBB-ADD8866D1A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159BF53B-55B5-42E1-BCA6-FBEC6578D95E}
+	EndGlobalSection
+EndGlobal
